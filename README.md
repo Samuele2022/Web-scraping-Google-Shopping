@@ -8,7 +8,7 @@ search<o:p></o:p></span></b></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal><b>Business need:</b> Get ecommerce competitors’ data on Google
+<p class=MsoNormal><b>Business need:</b> Get e-commerce prices and sellers from Google
 Shopping searches.</p>
 
 <p class=MsoNormal><b>Proposed solution</b>: A Python script that can retrieve
